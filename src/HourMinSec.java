@@ -8,7 +8,7 @@ public class HourMinSec {
         Scanner sc1= new Scanner(System.in);
         System.out.print("enter seconds: ");
         int totalSec= sc1.nextInt();
-       // System.out.println("");
+        System.out.println("");
         int hr= totalSec/3600;
         int hr1= totalSec%3600;
         int min= hr1/60;
