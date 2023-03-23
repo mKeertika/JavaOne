@@ -1,0 +1,12 @@
+https://learngitbranching.js.org/
+
+===========
+
+git revert <commit to revert>
+Usually looks like this:
+git reset --soft HEAD
+or
+git reset --hard HEAD
+
+=================
+
